@@ -47,7 +47,7 @@ export const ProductCard = ({children, product, className, style, onChange, valu
                     maxCount: initialValues?.maxCount,
                     product,
                     increaseByOne,
-                    reset
+                    reset,
                 })}
             </div>
         </Provider>

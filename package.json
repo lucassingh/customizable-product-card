@@ -22,6 +22,10 @@
   "peerDependencies": {
     "react": ">=16"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucassingh/customizable-product-card"
+  },
   "husky": {
     "hooks": {
       "pre-commit": "tsdx lint"
@@ -59,5 +63,11 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.4.0",
     "typescript": "^4.6.4"
-  }
+  },
+  "keywords": [
+    "react",
+    "product",
+    "card",
+    "shopping Card"  
+  ]
 }
